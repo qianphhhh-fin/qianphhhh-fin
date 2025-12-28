@@ -148,7 +148,3 @@ My research philosophy focuses on combining **Unstructured Data Understanding (L
 
 ---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=qianphhhh-fin&show_icons=true&theme=radical&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qianphhhh-fin&layout=compact&theme=radical&hide_border=true" width="48%" />
-</div>
